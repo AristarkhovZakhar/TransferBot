@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# token
+# token token_name = "5714699692:AAEKcjCxi3bosMXxTpjYuxXj_RAMuCaxytk"
 mytoken.py
 
 # C extensions
