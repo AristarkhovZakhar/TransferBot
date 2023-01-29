@@ -25,3 +25,5 @@
 
 ![](https://sun9-28.userapi.com/impg/niJoLNPQ0pnd6TxftEz-ocZ9ZuBwyL8XrOWmkA/AI_M9ZxX3yE.jpg?size=512x512&quality=96&sign=d1f4bffc0ebfa48ae38eb0903f41559a&type=album)
 
+# Логирование
+Файл с логами бота и обучения *bot_log.log* будет находиться в той же директории.
